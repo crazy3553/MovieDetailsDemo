@@ -1,0 +1,14 @@
+.displayMovieListModal {
+    font-weight: bold;
+    font-size: 13px;
+    color:rgba(45, 120, 143, 0.829); 
+}
+.imdbRating {
+    font-size: 14px;
+    color: green;
+    font-weight: 700;
+}
+.movieSearchFirst{
+    margin-top: 30px;
+    margin-left: 30px !important;
+}
